@@ -6,6 +6,7 @@ What I have done so far:
 - A Cloud Security Project
 - Created a Test Network
 - Competed in NCL
+- Interviewed for an Article about Cybersecurity
 
 Vulnerability Assessment:
 - Performed comprehensive vulnerability assessments in a controlled lab environment using Nessus and Greenbone/OpenVAS
