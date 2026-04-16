@@ -29,3 +29,9 @@ Enterprise Network Security & Threat Simulation Lab:
 - Deployed a honeypot system using a program called Portspoof to simulate services running on the server and disrupt reconnaissance techniques such as Nmap scanning
 - Utilized VMware virtualization integrated with Cisco networking and Palo Alto firewalls to emulate enterprise grade infrasturcture
 - Applied system hardening and legacy system security practices to reduce attack surface and improve defensive posture
+
+NCL:
+- Have been participating in NCL since 2023
+
+Interviewed for an Article:
+https://livability.com/co/castle-rock/education-careers-opportunity/inside-the-innovative-partnerships-at-the-sturm-collaboration-campus/
